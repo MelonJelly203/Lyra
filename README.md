@@ -1,4 +1,4 @@
-# This is a work of dvlab-research (https://github.com/dvlab-research/Lyra.git). This copy is solely purposed for personally studying AI. 
+### #This is a work of dvlab-research (https://github.com/dvlab-research/Lyra.git). This copy is solely purposed for personally studying AI. 
 # <img src="assets/lyra.svg" alt="icon" width="30" height="30"> <span style="font-size:30px;">Lyra: An Efficient and Speech-Centric Framework <br>for Omni-Cognition</span>
 
 <a href='https://huggingface.co/papers/2412.09501'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Discussion-orange'></a>
